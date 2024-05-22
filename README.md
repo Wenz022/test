@@ -3,7 +3,7 @@ testwef
 테
 테eatemainmainamina스트
 
-feature branch createmainmainamina
+main
 
 테스트
 braeatemainmainaminanch
